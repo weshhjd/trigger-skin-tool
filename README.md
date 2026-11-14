@@ -1,4 +1,4 @@
-# Trigger Skin Tools — Oficial
+# Trigger Skin Tools — Oficial (v1.0.0)
 
 Repositorio oficial de actualizaciones automaticas de **Trigger Skin Tools**.
 
